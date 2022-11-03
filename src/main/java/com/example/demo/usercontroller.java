@@ -1,5 +1,5 @@
 @Restcontroller
-public class Usercontroller {
+public class usercontroller {
     @Getmapping
     public String demo () {
         return "Hello world";
